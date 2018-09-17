@@ -1,8 +1,8 @@
 {
-  "name": "deadrobot",
+  "name": "deadrobot.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tonylea.github.io/deadrobot",
+  "homepage": "https://tonylea.github.io/deadrobot.github.io",
   "dependencies": {
     "gh-pages": "^2.0.0",
     "react": "^16.5.1",
