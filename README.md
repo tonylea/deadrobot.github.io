@@ -1,3 +1,5 @@
+[![Build Status](https://deadrobot.visualstudio.com/deadrobot.github.io/_apis/build/status/tonylea.deadrobot.github.io)](https://deadrobot.visualstudio.com/deadrobot.github.io/_build/latest?definitionId=3)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
